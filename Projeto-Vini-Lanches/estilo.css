@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+}
+.giga{
+    font-size: 5em;
+}
+
+.banner-home {
+    width: 500px;
+    height: 500px;
+}
+
+.imagem-produto {
+border: 2px solid black;
+float: left;
+margin-left: 10px;
+margin-right: 10px;
+width: 20%;
+height: 20%;
+background-color: white;
+}
+
+.logo {
+    width: 5%;
+    height: 5%;
+}
+
+.container-alinhado {
+    text-align: center;
+}
+
+/*.tabela {
+    background-color: #add8e6; 
+    border: 1px;
+    justify-content: center;
+    margin: auto;
+    border:1px solid grey; 
+    padding:5px 50px;
+}
+*/

@@ -1,0 +1,16 @@
+main{
+    padding: 0 30px;
+}
+
+main .content{
+    display: flex;
+}
+
+main .content section{
+    flex: 1;
+}
+
+main .content aside{
+    min-width: 250px;
+    background: red;
+}
